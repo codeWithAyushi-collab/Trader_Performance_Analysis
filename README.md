@@ -1,4 +1,4 @@
-Trader Performance Analysis Across Market Sentiments
+# Trader Performance Analysis Across Market Sentiments
 
 Author: Ayushi Bhati
  Internship: [Primetrade.ai Data Science internship]
